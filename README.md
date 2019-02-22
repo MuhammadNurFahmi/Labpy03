@@ -33,7 +33,7 @@
 
 
 
-- Jika gagal silahkan cek kembali apakah kodingan kalian sudah serperti gambar diatas 👆
+- Jika gagal silahkan cek kembali apakah kodingan kalian sudah seperti gambar diatas 👆
 - Dan jika berhasil maka tampilan pada program python anda akan seperti ini 👇
 
 
@@ -43,19 +43,31 @@
 - Berikut penjelasan dari program diatas
 
 print ('Masukkan nilai N: 5')
+
 import random
+
 jumlah = 5
+
 a = 0
+
 for x in range(jumlah):
-	i = random.uniform(.0,.5)
-	a+=1
-	print('data ke:',a,'==>', i)
+
+i = random.uniform(.0,.5)
+
+a+=1
+
+print('data ke:',a,'==>', i)
+
 print ('selesai')
 
 "print"  : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
+
 "import" : fungsi lanjut yang dipanggil oleh statement import.
+
 "random" : untuk menentukan suatu pilihan. 
+
 "range"  : merupakan fungsi yang menghasilkan list. Fungsi ini akan menciptakan sebuah list baru dengan rentang nilai tertentu. 
+
 "uniform": digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
 
 
@@ -84,7 +96,7 @@ print ('selesai')
 
 
 
-- Jika gagal silahkan cek kembali apakah kodingan kalian sudah serperti gambar diatas 👆
+- Jika gagal silahkan cek kembali apakah kodingan kalian sudah seperti gambar diatas 👆
 - Dan jika berhasil maka tampilan pada program python anda akan seperti ini 👇
 
 ![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/Hasil%20Latihan%202.PNG)
@@ -131,7 +143,7 @@ print('Bilangan terbesarnya adalah',max)
 
 ![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/save%20as%20dan%20run.png)
 
-- Jika gagal silahkan cek kembali apakah kodingan kalian sudah serperti gambar diatas 👆
+- Jika gagal silahkan cek kembali apakah kodingan kalian sudah seperti gambar diatas 👆
 - Dan jika berhasil maka tampilan pada program python anda akan seperti ini 👇
 
 ![Image are easy](https://github.com/MuhammadNurFahmi/Labpy03/blob/master/Hasil%20Program1.PNG)
