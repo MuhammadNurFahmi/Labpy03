@@ -138,6 +138,18 @@ perulangannya.
 
 # Alur Algoritma program1.py
 
+- Buat sederhana dengan perulangan,
+- Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya
+- Dengan modal awal 100 juta
+- Pada bulan pertama dan kedua belum mendapatkan laba
+- Pada bulan ketiga baru mulai mendapatkan laba sebesar 1%
+- Pada bulan kelima pendapatan meningkat 5%
+- Selanjutnya pada bulan ke-8 mengalami penurunan keuntungan sebesar 2%
+- Sehingga laba menjadi 3%
+- Hitung total keuntungan selama 8 bulan berjalan usahanya
+
+- Kita mulai cara membuat program diatas 👆
+
 - Sebelum memulainya pastikan anda punya aplikasi **PYTHON** 
 - jika belum punya silahkan [link ini](https://filehippo.com/download_python/)
 - Jika Sudah seperti biasa mendownload Apk lainnya hanya klik next - next - lalu finish :smiley:
