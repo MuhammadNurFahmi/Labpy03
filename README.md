@@ -10,6 +10,21 @@
 
 # Alur Algoritma latihan1.py
 
+**SOAL**
+
+- Tampilkan n bilangan acak yang lebih kecil dari 0.5
+-  Nilai n pada saat runtime
+- Anda bisa menggunakan while atau for untuk menyelesaikannya
+- Gunakan fungsi random () yang dapat di'import terlebih dahulu
+
+- Kita mulai cara membuat program diatas 👆
+
+
+**FLOWCHART LATIHAN1.PY**
+
+![Image are easy](https://user-images.githubusercontent.com/46926758/53193448-8e52a380-3643-11e9-9f3e-82b74718a6aa.png)
+
+
 - Sebelum memulainya pastikan anda punya aplikasi **PYTHON** 
 - jika belum punya silahkan [link ini](https://filehippo.com/download_python/)
 - Jika Sudah seperti biasa mendownload Apk lainnya hanya klik next - next - lalu finish :smiley:
@@ -72,6 +87,19 @@ print ('selesai')
 
 
 # Alur Algoritma Latihan2.py
+
+**SOAL**
+
+- Buat program untuk menampilkan bilangan *terbesar* dari *n* buah data yang di'inputkan
+- Dan masukkan angka nol untuk berhenti
+
+- Kita mulai cara membuat program diatas 👆
+
+**FLOWCHART**)
+
+
+![Image are easy](https://user-images.githubusercontent.com/46926758/53195549-73366280-3648-11e9-9741-4b5eba27802d.png)
+
 
 - Sebelum memulainya pastikan anda punya aplikasi **PYTHON** 
 - jika belum punya silahkan [link ini](https://filehippo.com/download_python/)
@@ -149,6 +177,11 @@ perulangannya.
 - Hitung total keuntungan selama 8 bulan berjalan usahanya
 
 - Kita mulai cara membuat program diatas 👆
+
+**FLOWCHART**
+
+![Image are easy](https://user-images.githubusercontent.com/46926758/53196983-d970b480-364b-11e9-846a-f738b6116a58.png)
+
 
 - Sebelum memulainya pastikan anda punya aplikasi **PYTHON** 
 - jika belum punya silahkan [link ini](https://filehippo.com/download_python/)
