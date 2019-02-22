@@ -138,7 +138,7 @@ perulangannya.
 
 # Alur Algoritma program1.py
 
-- Buat sederhana dengan perulangan,
+- Buat program sederhana dengan perulangan,
 - Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya
 - Dengan modal awal 100 juta
 - Pada bulan pertama dan kedua belum mendapatkan laba
